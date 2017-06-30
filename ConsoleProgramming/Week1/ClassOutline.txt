@@ -1,0 +1,18 @@
+Class Outline: 
+Start with PPT to introduce C# and what they will be able to do.
+A) Start a new Project:
+  1. File -> New -> Project
+  2. Under Visual C# select "Console App (.NET Core)"
+  3. Change name to "SKILLsConsole" (Note that this name can be whatever fits your project but this is what we will be   using in this course).
+B) First Program
+  4. Discuss Elements on screen. Discribe what each does 
+  5. Introduce Commenting.
+  6. This creates "Hello World" Program.  Run this program with play button. 
+  7. Console appears and dissappaers. Use Console.ReadKey() to pause output. 
+  8. add user instructions before console.readkey
+C) Differnt approaches
+  9. Hello world as seperate method
+  10. Hello world as string method 
+D) Introduce Console.ReadLine()
+  11. This is thier homework: Create a program that can read in user input and then write it to the console. It only needs to do this once. It should exit cleanly. 
+

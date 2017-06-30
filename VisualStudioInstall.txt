@@ -1,0 +1,4 @@
+Visual Studio 2017 Install:
+1)Download and install Visual Studio IDE (Select Community 2017): https://www.visualstudio.com/
+2)For this course you need to select the following workloads to install: Universal Windows Platform Development, .NET desktop Development, and Game development with Unity
+3)Note: installation will involve an approximately 12Gb download.
