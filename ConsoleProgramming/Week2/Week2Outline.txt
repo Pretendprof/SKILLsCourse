@@ -1,0 +1,18 @@
+1) Review Last weeks HW solutions. 
+2) PPT discuss class structures and inheritence
+3) PPT discuss strings and chars along with case sensitivity
+4) create inputLogic method
+	a) illistrates if logic [fits common language]
+5) create input logic with ToTupper
+	a) ensures that case doesn't matter
+6) create howareyou 
+	a) demonstrates if else
+	b) uses ignore case
+7) create howare you switch
+	a) demonstrate switch [faster, sometimes easier to read]
+8) create color selector
+	a) pick colors
+	b) add repeat option
+8) Create material class object with getter and setter
+	a) use create Define function to define a material and output info about it.
+9) HW: Create Participant Class (Name, age, height, favorite color) and a function that can store information about the participant and then print infomation back to Console. Need to be able to create two participants assign data to participants. Then should be able to retrieve whatever info you want to need. 

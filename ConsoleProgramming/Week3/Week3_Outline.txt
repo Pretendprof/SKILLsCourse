@@ -1,0 +1,15 @@
+A) Get user input and check if it is what it should be (int, double, etc)
+	a) show what happens when you don't (throw exception) don't tel them this will happen
+	b) show int and double checks
+	c) show this with addition output
+B) PPT the For and while loop
+C) Make simple counter
+	a) start with for loop
+	b) do same with while loop
+	c) use key stroke to break out of while loop
+D) Discuss timing (nanoseconds)
+	a) show counter
+	b) show delta time
+E) Introduce variable passing
+	a) pass string var to another method and return a string
+F) HW: Create a calculator App. Must read in at least 2 values (ints or doubles) and allow user to specify addition, subtraction, multiplication, or division. The goal is to make it both simple and also capable of handling bad user inputs. It must show user the solution

@@ -13,6 +13,15 @@ B) First Program
 C) Differnt approaches
   9. Hello world as seperate method
   10. Hello world as string method 
-D) Introduce Console.ReadLine()
+D) Create new Class
+  11. Copy in Hello world
+  12. How can we call this? note that since it is private by default you cannot
+  13. Introduce private/public/protected (can be called from derived classes) distinction
+E) Change text color and position
+  14.Change text color
+  15. Change text position
+  16. Note that decisions must be made because during program run these settings stick.
+F) If time: Have them draw something with a program. 
+E) Introduce Console.ReadLine()
   11. This is thier homework: Create a program that can read in user input and then write it to the console. It only needs to do this once. It should exit cleanly. 
 
